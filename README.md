@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Jquery-%230769AD?style=flat-square&logo=Jquery&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=flat-square&logo=NodeJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=flat-square&logo=Node.js&logoColor=white"/>
   
 </p>
 
