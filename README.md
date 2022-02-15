@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Typescript-%233178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jquery-%230769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=flat-square&logo=Node.js&logoColor=white"/>
