@@ -25,7 +25,12 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
 #### Tools
