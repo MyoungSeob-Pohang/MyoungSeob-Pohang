@@ -7,10 +7,10 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Web Front developer</b> using Android and iOS. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  👋&nbsp; Hi there! I'm <b>WebFE (Front-End) developer</b> using React, TypeScript, JavaScript, and Jquery. 🚀<br/>
+  I always have a desire to learn and I am writing TIL every day. 💖<br/><br/>
+  I enjoy swimming, beer, reading books, and listening to music. ⛰ 🏄<br/>
+  I hope everyone is equal and can access development more easily. ✨ <br/><br/>
 </p>
 
 ### 💪 Skills
