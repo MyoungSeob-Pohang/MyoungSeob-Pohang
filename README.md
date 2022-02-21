@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Typescript-%233178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/-Typescript-%233178C6?style=flat-square&logo=Typescript&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-Jquery-%230769AD?style=flat-square&logo=Jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MariaDB-%23003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
 </p>
 
 #### Tools
